@@ -1,4 +1,4 @@
-package com.fikrimulya.unitconverter.JetpackComposeTutorial
+package com.fikrimulya.androidtutorial.PhilippLackner.AndroidJetpackCompose
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -10,7 +10,6 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.requiredWidth
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier

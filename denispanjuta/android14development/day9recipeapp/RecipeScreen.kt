@@ -65,7 +65,7 @@ fun CategoryItem(category: Category) {
             /*
             * rememberAsyncImagePainter
             * mengambil gambar secara asynchronous dari internet dan mengembalikan
-            * aynchronousImagePainter
+            * asynchronousImagePainter
             * */
             painter = rememberAsyncImagePainter(model = category.strCategoryThumb),
             contentDescription = "Category Image",

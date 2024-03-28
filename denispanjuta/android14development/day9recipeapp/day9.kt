@@ -27,7 +27,7 @@
 * baik dan meningkatkan daya tanggap, khususnya pada aplikasi dengan user interface*/
 
 // Try Catch
-fun main() {
+/*fun main() {
     try {
         println("Please enter a number")
         var number = readln().toInt()
@@ -37,7 +37,7 @@ fun main() {
     } finally {
         println("This is Finally")
     }
-}
+}*/
 
 /*
 *
